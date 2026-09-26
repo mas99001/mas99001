@@ -1,0 +1,13 @@
+2026-08-14 09:36:20,825 - ERROR - Captured exception:
+Traceback (most recent call last):
+  File "D:\MSDN.TPM\A.4.K\AI-PYT-GIT\KAP-IK\KAP-AIML\pyt-funda-2\quick.py", line 90, in <module>
+    process_data()
+    ~~~~~~~~~~~~^^
+  File "D:\MSDN.TPM\A.4.K\AI-PYT-GIT\KAP-IK\KAP-AIML\pyt-funda-2\quick.py", line 88, in process_data
+    divide_numbers(10, 0)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "D:\MSDN.TPM\A.4.K\AI-PYT-GIT\KAP-IK\KAP-AIML\pyt-funda-2\quick.py", line 86, in divide_numbers
+    return a / b
+           ~~^~~
+ZeroDivisionError: division by zero
+
